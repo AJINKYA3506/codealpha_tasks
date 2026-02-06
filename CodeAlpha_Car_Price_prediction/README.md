@@ -102,7 +102,8 @@ Steps performed:
 👨‍💻 Author
 
 •	Ajinkya Dongare
-      AI & Data Science Student
-      CodeAlpha Internship Project
+
+  AI & Data Science Student
+  CodeAlpha Internship Project
 
 
