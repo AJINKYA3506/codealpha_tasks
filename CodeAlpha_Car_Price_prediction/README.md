@@ -71,9 +71,9 @@ Target Variable:
 
 •	Split the dataset into:
 
-   o	80% Training data
+   o	**80% Training data**
 
-   o	20% Testing data
+   o	**20% Testing data**
 
 🤖 Model Building
 
