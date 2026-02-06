@@ -87,9 +87,9 @@ Steps performed:
 2.	Predict car prices on test data
 3.	Evaluate the model using:
 
-  - R² Score
+    - R² Score
 
-  - Model accuracy
+    - Model accuracy
 
 📈 Results
 
