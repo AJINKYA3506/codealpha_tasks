@@ -71,9 +71,9 @@ Target Variable:
 
 •	Split the dataset into:
 
-o	80% Training data
+    o	80% Training data
 
-o	20% Testing data
+    o	20% Testing data
 
 🤖 Model Building
 
@@ -83,13 +83,13 @@ The following model was used:
 
 Steps performed:
 
-1.	Train the model using training data
-2.	Predict car prices on test data
-3.	Evaluate the model using:
+    1.	Train the model using training data
+    2.	Predict car prices on test data
+    3.	Evaluate the model using:
 
-o	R² Score
+                o	R² Score
 
-o	Model accuracy
+                o	Model accuracy
 
 📈 Results
 
@@ -102,7 +102,7 @@ o	Model accuracy
 👨‍💻 Author
 
 •	Ajinkya Dongare
-AI & Data Science Student
-CodeAlpha Internship Project
+      AI & Data Science Student
+      CodeAlpha Internship Project
 
 
