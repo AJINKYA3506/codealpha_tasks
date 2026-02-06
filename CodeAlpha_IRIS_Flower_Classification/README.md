@@ -64,7 +64,7 @@ Target:
 
 •	Species
 
-o	Iris-setosa
+  * Iris-setosa
 
 o	Iris-versicolor
 
