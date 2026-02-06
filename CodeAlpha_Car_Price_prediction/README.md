@@ -71,9 +71,9 @@ Target Variable:
 
 •	Split the dataset into:
 
-   o	**80% Training data**
+  - 80% Training data
 
-   o	**20% Testing data**
+  - 20% Testing data
 
 🤖 Model Building
 
@@ -87,9 +87,9 @@ Steps performed:
 2.	Predict car prices on test data
 3.	Evaluate the model using:
 
-   o	R² Score
+  - R² Score
 
-   o	Model accuracy
+  - Model accuracy
 
 📈 Results
 
