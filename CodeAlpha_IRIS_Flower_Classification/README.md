@@ -66,9 +66,9 @@ Target:
 
   * Iris-setosa
 
-o	Iris-versicolor
+  * Iris-versicolor
 
-o	Iris-virginica
+  * Iris-virginica
 
 🔍 Data Preprocessing
 
@@ -82,9 +82,9 @@ o	Iris-virginica
 
 •	Split the dataset into:
 
-o	80% Training data
+  * 80% Training data
 
-o	20% Testing data
+  * 20% Testing data
 
 🤖 Model Building
 
@@ -98,9 +98,9 @@ Steps performed:
 2.	Predict results on test data
 3.	Evaluate using:
 
-o	Accuracy Score
+  * Accuracy Score
 
-o	Classification Report (precision, recall, f1-score)
+  * Classification Report (precision, recall, f1-score)
 
 📈 Results
 
@@ -114,7 +114,7 @@ o	Classification Report (precision, recall, f1-score)
 
 •	Ajinkya Dongare
 
-AI & Data Science Student
-CodeAlpha Internship Project
+  AI & Data Science Student
+  CodeAlpha Internship Project
 
 
